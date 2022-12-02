@@ -10,8 +10,29 @@
     text-align: center;
 }
 
-.box-content {
+.box-content-1 {
     padding: 40px 10px 40px 10px;
+}
+
+.box-content-2 {
+    padding: 0px 10px 40px 10px;
+}
+
+.btn {
+    height: 40px;
+    width: 60px;
+    border: 2px solid black;
+}
+
+textarea {
+    border: none;
+    outline: 2px solid black;
+    position: relative;
+    height: 250px;
+    width: 75%;
+    text-align: center;
+    white-space: pre-wrap;
+    resize: none;
 }
 
 .box-top, .box-bottom {
